@@ -1,0 +1,5 @@
+reportlab
+tkinter
+Pillow
+fpdf
+pillow
